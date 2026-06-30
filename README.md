@@ -45,7 +45,7 @@ This project is an interactive **Power BI dashboard** built using the **Spotify 
 
 ## 📷 Dashboard Preview
 
-![Spotify Analytics Dashboard](images/dashboard.png)
+![Spotify Analytics Dashboard](images/Dashboard.png)
 
 ---
 
